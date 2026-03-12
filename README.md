@@ -77,7 +77,7 @@ Just don’t pretend you invented WURP.
 
 ## Credits
 
-Created by Fresh of Breathe Air.
+Created by TizWildinEntertainment
 
 # WURP Product Line Package
 
