@@ -28,7 +28,27 @@ Designed to create:
 • Custom theme packs
 • Audio reactive visuals
 
+Input / Oscillator
+      │
+Gas Generator
+      │
+Toxic Filter
+      │
+Formant Engine
+      │
+Saturation Stage
+      │
+Motion Engine
+      │
+Stereo Drift
+      │
+Space FX
+      │
+    Output
+
 ---
+
+
 
 ## Themes
 
@@ -74,6 +94,7 @@ Use it, fork it, modify it, build it.
 Just don’t pretend you invented WURP.
 
 ---
+
 
 ## Credits
 
