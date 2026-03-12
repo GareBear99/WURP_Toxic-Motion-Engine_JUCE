@@ -1,0 +1,9 @@
+{
+  "name": "Sewer Slime",
+  "accent": "#5f8d33",
+  "gas_speed": 0.45,
+  "particle_density": 0.8,
+  "fallback_background": "background_static.txt",
+  "background_animation": "background_anim.txt",
+  "overlay": "overlay.txt"
+}

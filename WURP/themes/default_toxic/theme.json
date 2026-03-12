@@ -1,0 +1,9 @@
+{
+  "name": "Default Toxic",
+  "accent": "#7eff4f",
+  "gas_speed": 0.6,
+  "particle_density": 0.7,
+  "fallback_background": "background_static.txt",
+  "background_animation": "background_anim.txt",
+  "overlay": "overlay.txt"
+}

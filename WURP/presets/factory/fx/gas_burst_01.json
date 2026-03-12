@@ -1,0 +1,9 @@
+{
+  "name": "Gas Burst 01",
+  "category": "fx",
+  "gas": 0.85,
+  "pressure": 0.8,
+  "rot": 0.5,
+  "mouth": 0.3,
+  "theme_hint": "default_toxic"
+}

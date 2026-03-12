@@ -1,0 +1,9 @@
+{
+  "name": "Sewer Sub 01",
+  "category": "bass",
+  "gas": 0.5,
+  "pressure": 0.35,
+  "rot": 0.25,
+  "mouth": 0.2,
+  "theme_hint": "sewer_slime"
+}

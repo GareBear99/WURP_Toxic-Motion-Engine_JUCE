@@ -1,0 +1,9 @@
+{
+  "name": "Toxic Bass 01",
+  "category": "bass",
+  "gas": 0.7,
+  "pressure": 0.5,
+  "rot": 0.4,
+  "mouth": 0.6,
+  "theme_hint": "default_toxic"
+}

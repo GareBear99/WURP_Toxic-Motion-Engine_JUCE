@@ -1,0 +1,9 @@
+{
+  "name": "Reactor Green",
+  "accent": "#97ff00",
+  "gas_speed": 0.75,
+  "particle_density": 0.6,
+  "fallback_background": "background_static.txt",
+  "background_animation": "background_anim.txt",
+  "overlay": "overlay.txt"
+}
