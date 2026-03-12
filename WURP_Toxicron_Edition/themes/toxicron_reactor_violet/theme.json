@@ -1,0 +1,9 @@
+{
+  "name": "Toxicron Reactor Violet",
+  "accent": "#b86cff",
+  "gas_speed": 0.68,
+  "particle_density": 0.72,
+  "fallback_background": "background_static.txt",
+  "background_animation": "background_anim.txt",
+  "overlay": "overlay.txt"
+}

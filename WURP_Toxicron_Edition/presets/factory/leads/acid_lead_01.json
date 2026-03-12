@@ -1,0 +1,9 @@
+{
+  "name": "Acid Lead 01",
+  "category": "lead",
+  "gas": 0.4,
+  "pressure": 0.65,
+  "rot": 0.55,
+  "mouth": 0.7,
+  "theme_hint": "reactor_green"
+}

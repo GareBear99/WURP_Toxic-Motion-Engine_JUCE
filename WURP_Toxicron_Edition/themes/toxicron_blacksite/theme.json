@@ -1,0 +1,9 @@
+{
+  "name": "Toxicron Blacksite",
+  "accent": "#d9ff00",
+  "gas_speed": 0.5,
+  "particle_density": 0.55,
+  "fallback_background": "background_static.txt",
+  "background_animation": "background_anim.txt",
+  "overlay": "overlay.txt"
+}

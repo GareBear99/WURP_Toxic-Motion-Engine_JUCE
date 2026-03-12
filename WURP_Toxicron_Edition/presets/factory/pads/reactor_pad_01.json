@@ -1,0 +1,9 @@
+{
+  "name": "Reactor Pad 01",
+  "category": "pad",
+  "gas": 0.45,
+  "pressure": 0.4,
+  "rot": 0.6,
+  "mouth": 0.55,
+  "theme_hint": "toxicron_reactor_violet"
+}
